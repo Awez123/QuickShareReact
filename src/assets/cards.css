@@ -1,0 +1,15 @@
+.parentCard{ 
+    height: 70vh;
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 5rem;
+}
+.mainCard{
+    /* height: rem; */
+    width: 15rem;
+    margin: 2rem;
+    /* padding: 2rem; */
+}
